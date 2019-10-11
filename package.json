@@ -1,0 +1,19 @@
+{
+  "name": "project-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Main.js",
+  "dependencies": {
+    "electron": "^4.0.5",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^7.0.1",
+    "phaser": "^3.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
