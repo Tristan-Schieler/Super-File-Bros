@@ -4,7 +4,7 @@
   "description": "",
   "main": "Main.js",
   "dependencies": {
-    "electron": "^4.0.5",
+    "electron": "^15.5.5",
     "fs": "^0.0.1-security",
     "fs-extra": "^7.0.1",
     "phaser": "^3.16.2"
